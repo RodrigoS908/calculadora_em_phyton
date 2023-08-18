@@ -7,6 +7,6 @@ if z == 1 :
 elif z == 2 :
     print(x-y)
 elif z == 3 :
-    print(x+y)
+    print((x+y))
 elif z == 4 :
     print(x/y)
